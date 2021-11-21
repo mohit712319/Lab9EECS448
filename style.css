@@ -1,0 +1,21 @@
+body
+{ 
+        background-color: blue;
+        background-repeat: no-repeat;
+}
+h1 {
+         font-size: 80px;
+         font-family: "Copperplate", Fantasy;
+         text-align: center;
+         background-color: lightslategrey;color: white;
+}
+h3{
+        fontsize:30 px;
+        font-family: "Copperplate", Fantasy;
+        color: white;
+}
+.rightdisplay
+{
+        color:white;
+}
+~  
